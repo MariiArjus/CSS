@@ -1,0 +1,12 @@
+.container {
+    max-width: 1260px;
+    margin: auto;
+}
+
+.image {
+    float: left;
+}
+
+.text {
+    overflow: hidden;
+}
